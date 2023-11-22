@@ -1,7 +1,7 @@
 # Hi y'all, I'm Ehtisham Raza.
 
 #### AI/ML Engineer / Data Trainer & Coach; I leverage my expertise in data science and machine learning to design, develop, and deploy AI solutions 
-#### Passionate about AI&#12299; ML&#12299; Data Science &#12299; I dedicate my free time to crafting insightful blogs and hosting engaging webinars on the latest trends and advancements in the field.
+#### Passionate about AI &#12299; ML&#12299; Data Science &#12299; I dedicate my free time to crafting insightful blogs and hosting engaging webinars on the latest trends and advancements in the field.
 
 ----
 
