@@ -32,6 +32,7 @@
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=4A154B&logoColor=AAA&style=flat)
 ![Spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Spark&color=4A154B&logoColor=AAA&style=flat)
 ![Airflow](https://img.shields.io/static/v1?logo=apache-airflow&label=&message=Airflow&color=4A154B&logoColor=AAA&style=flat)
+![Databricks](https://img.shields.io/static/v1?logo=databricks&label=&message=Databricks&color=4A154B&logoColor=AAA&style=flat)
 <br />
 
 ![Data Science & AI Techniques](https://img.shields.io/static/v1?label=&message=Data%20Science%20%26%20AI%20Techniques:&color=606060&style=flat)
