@@ -56,7 +56,7 @@
 ![Cloud Platforms](https://img.shields.io/static/v1?label=&message=Cloud%20Platforms:&color=606060&style=flat)
 ![GCP](https://img.shields.io/static/v1?logo=google-cloud&label=&message=GCP&color=4285F4&logoColor=AAA&style=flat)
 ![AWS](https://img.shields.io/static/v1?logo=amazon-aws&label=&message=AWS&color=232F3E&logoColor=AAA&style=flat)
-
+![Azure](https://img.shields.io/static/v1?logo=microsoft-azure&label=&message=Azure&color=0089D6&logoColor=AAA&style=flat)
 ----
 
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=AAA&style=flat)](https://twitter.com/Ehtisha7028418)
