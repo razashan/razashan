@@ -64,6 +64,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=AAA&style=flat)](https://www.linkedin.com/in/ehtisham-raza-0a5479163/)
 [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=medium&logoColor=AAA&style=flat)](https://medium.com/@raza.shan83)
 
-[![Research Paper](https://img.shields.io/static/v1?label=&message=Research%20Paper&color=FF5733&style=flat)]([https://example.com/your-research-paper-link](https://www.researchgate.net/publication/353762093_Disease_Diagnosis_System_Using_IoT_Empowered_with_Fuzzy_Inference_System)https://www.researchgate.net/publication/353762093_Disease_Diagnosis_System_Using_IoT_Empowered_with_Fuzzy_Inference_System)
+[![Research Paper](https://img.shields.io/static/v1?label=&message=Research%20Paper&color=FF5733&style=flat)](https://www.researchgate.net/publication/353762093_Disease_Diagnosis_System_Using_IoT_Empowered_with_Fuzzy_Inference_System)https://www.researchgate.net/publication/353762093_Disease_Diagnosis_System_Using_IoT_Empowered_with_Fuzzy_Inference_System)
 
 
