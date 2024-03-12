@@ -47,9 +47,9 @@
 ![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=2196F3&style=flat)
 ![Social Networks Mining](https://img.shields.io/static/v1?label=&message=Social%20Networks%20Mining&color=2196F3&style=flat)
 ![MLOps](https://img.shields.io/static/v1?label=&message=MLOps&color=2196F3&style=flat)
-![Generative AI](https://img.shields.io/static/v1?label=&message=MLOps&color=2196F3&style=flat)
-![LLMs](https://img.shields.io/static/v1?label=&message=MLOps&color=2196F3&style=flat)
-![RAG](https://img.shields.io/static/v1?label=&message=MLOps&color=2196F3&style=flat)
+![Generative AI](https://img.shields.io/static/v1?label=&message=Generative%20AI&color=2196F3&style=flat)
+![LLMs](https://img.shields.io/static/v1?label=&message=LLMs&color=2196F3&style=flat)
+![RAG](https://img.shields.io/static/v1?label=&message=RAG&color=2196F3&style=flat)
 
 <br />
 
