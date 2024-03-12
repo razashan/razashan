@@ -55,7 +55,7 @@
 
 ----
 
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=AAA&style=flat)]()
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=AAA&style=flat)](https://twitter.com/Ehtisha7028418)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=AAA&style=flat)](https://www.instagram.com/shan_codes/)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=AAA&style=flat)](https://www.linkedin.com/in/ehtisham-raza-0a5479163/)
 [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=medium&logoColor=AAA&style=flat)](https://medium.com/@raza.shan83)
