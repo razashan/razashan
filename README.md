@@ -19,8 +19,9 @@
 ![Scikit-learn](https://img.shields.io/static/v1?logo=scikit-learn&label=&message=Scikit-learn&color=A9225C&logoColor=AAA&style=flat)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=A9225C&logoColor=AAA&style=flat)
 ![MLFlow](https://img.shields.io/static/v1?label=&message=MLFlow&color=A9225C&style=flat)
-![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=Tableau&color=A9225C&logoColor=AAA&style=flat)](https://public.tableau.com/app/profile/ehtisham.raza8267/vizzes)
-![Power BI](https://img.shields.io/static/v1?logo=powerbi&label=&message=Power%20BI&color=A9225C&logoColor=AAA&style=flat)
+<a href="https://public.tableau.com/app/profile/ehtisham.raza8267/vizzes" target="_blank">
+  <img src="https://img.shields.io/static/v1?logo=tableau&label=&message=Tableau&color=A9225C&logoColor=AAA&style=flat" alt="Tableau Profile">
+</a>![Power BI](https://img.shields.io/static/v1?logo=powerbi&label=&message=Power%20BI&color=A9225C&logoColor=AAA&style=flat)
 ![Tensorflow](https://img.shields.io/static/v1?logo=tensorflow&label=&message=Tensorflow&color=A9225C&logoColor=AAA&style=flat)
 ![PyTorch](https://img.shields.io/static/v1?logo=pytorch&label=&message=PyTorch&color=A9225C&logoColor=AAA&style=flat)
 ![OpenCV](https://img.shields.io/static/v1?logo=opencv&label=&message=Open-CV&color=A9225C&logoColor=AAA&style=flat)
