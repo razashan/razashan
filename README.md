@@ -52,6 +52,8 @@
 ![LLMs](https://img.shields.io/static/v1?label=&message=LLMs&color=2196F3&style=flat)
 ![RAG](https://img.shields.io/static/v1?label=&message=RAG&color=2196F3&style=flat)
 ![crewAI](https://img.shields.io/static/v1?label=&message=crewAI&color=2196F3&style=flat)
+![LangChain](https://img.shields.io/static/v1?label=&message=LangChain&color=2196F3&style=flat)
+
 <br />
 
 ![Cloud Platforms](https://img.shields.io/static/v1?label=&message=Cloud%20Platforms:&color=606060&style=flat)
