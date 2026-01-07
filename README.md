@@ -9,6 +9,7 @@
 ![SQL](https://img.shields.io/static/v1?logo=sql&label=&message=SQL&color=A9225C&logoColor=AAA&style=flat)
 ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=A9225C&logoColor=AAA&style=flat)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=A9225C&logoColor=AAA&style=flat)
+![Go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=A9225C&logoColor=AAA&style=flat)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=Javascript&color=A9225C&logoColor=AAA&style=flat)
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=A9225C&logoColor=AAA&style=flat)
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=A9225C&logoColor=AAA&style=flat)
@@ -53,6 +54,9 @@
 ![RAG](https://img.shields.io/static/v1?label=&message=RAG&color=2196F3&style=flat)
 ![crewAI](https://img.shields.io/static/v1?label=&message=crewAI&color=2196F3&style=flat)
 ![LangChain](https://img.shields.io/static/v1?label=&message=LangChain&color=2196F3&style=flat)
+![Google ADK](https://img.shields.io/static/v1?label=&message=Google%20ADK&color=2196F3&style=flat)
+![Vector Database](https://img.shields.io/static/v1?label=&message=Vector%20Database&color=2196F3&style=flat)
+
 
 <br />
 
