@@ -4,6 +4,7 @@
 #### Passionate about AI &#12299; ML&#12299; Data Science &#12299; Generative AI &#12299; LLMs I dedicate my free time to crafting insightful blogs and hosting engaging webinars on the latest trends and advancements in the field.
 
 ----
+[![🌐 Website](https://img.shields.io/static/v1?label=&message=Website&color=159BB4&logo=internet-explorer&logoColor=white&style=flat)](https://preview--raza-showcase-hub-reloaded.lovable.app/)
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=606060&style=flat)
 ![SQL](https://img.shields.io/static/v1?logo=sql&label=&message=SQL&color=A9225C&logoColor=AAA&style=flat)
